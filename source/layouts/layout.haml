@@ -17,9 +17,21 @@
   %body{class: page_classes}
     .row
       .twelve.columns
-        %h2
-          %a{href: "/"}= data.site.title
-        %hr
+        %nav.top-bar.hide-for-small
+          %ul.title-area
+            %li.name
+              %h1
+                %a{href: "/"}= data.site.title           
+            %li.toggle-topbar
+              %a{href: "#"}
+            %section.top-bar-section
+              %ul.right
+                %li    
+                  %a{href: "https://www.twitter.com/rolentle", target: "_blank"}= "Twitter"
+                %li    
+                  %a{href: "http://www.linkedin.com/pub/rolen-le/b/598/a81", target: "_blank"}=" Linkedin"
+                %li
+                  %a{href: "http://rolen-on-rails.herokuapp.com/feed.xml", target: "_blank"}= "RSS"
     .row
       .eight.columns
         = yield
