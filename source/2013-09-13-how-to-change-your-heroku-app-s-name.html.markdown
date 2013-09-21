@@ -19,7 +19,7 @@ $ cd path/to/the/root/of/your/app
 Now that you are in your root folder. Type in the following line in your terminal. Make `the-name-you-want` the name that you want.
 
 ```bash
-$ heroku rename:apps the-name-you-want
+$ heroku apps:rename the-name-you-want
 ```
 **Protip:** *Heroku App Name Restrictions*
 
