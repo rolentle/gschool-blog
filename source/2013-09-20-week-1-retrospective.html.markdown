@@ -24,6 +24,6 @@ Working alone has the main benefit of being able to move quickly, yet there are 
 
 ####Reflection
 
-I was able to meet all the feature requirements, even though the code was untested, an oversight I will make sure doesn't happen in future projects. However, after reviewing my code with other students, I realized my classes were doing too much. This begs questions such as: When do you create new class? How do you bucket responsibility to classes accordingly? Does this method fall within this class's scope? These questions are what make programming more of an art than a science. Thinking about how and why  code is structured is the biggest thing I am excited to learn about. 
+I was able to meet all the feature requirements, even though the code was untested, an oversight I will make sure doesn't happen in future projects. However, after reviewing my code with other students, I realized my classes were doing too much. This begs questions such as: When do you create new class? How do you bucket responsibility to classes accordingly? Does this method fall within this class's scope? These questions are what make programming more of an art than a science. Thinking about how and why  code is structured is the biggest thing I am excited to learn about.
 
 ######[Event Reporter Repo](https://github.com/rolentle/event_reporter)
